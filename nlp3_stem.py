@@ -21,4 +21,3 @@ print(words)
 print("\nStemmed words:")
 print(stemmed_words)
 
-
